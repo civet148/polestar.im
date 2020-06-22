@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="abd31891-99e4-4ab6-8e55-536da315cccf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/uniapp/polestar-app/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uniapp/polestar-app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uniapp/polestar-app/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uniapp/polestar-app/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uniapp/polestar-app/pages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uniapp/polestar-app/pages/index/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uniapp/polestar-app/static/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uniapp/polestar-app/uni.scss" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1deTGmIhuj5bgXWO9knl6qVmF0p" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abd31891-99e4-4ab6-8e55-536da315cccf" name="Default Changelist" comment="" />
+      <created>1592784465618</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592784465618</updated>
+    </task>
+    <servers />
+  </component>
+</project>
