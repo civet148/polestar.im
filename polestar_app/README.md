@@ -17,7 +17,11 @@ samples, guidance on mobile development, and a full API reference.
 
 
 # 编译错误解决方案
-## 1. Could not determine the dependencies of task ':app:compileDebugJavaWithJavac'
+## 1. IntelliJ Idea 创建flutter工程一直卡在creating flutter project界面问题
+
+解决办法：进入 $FLUTTER_HOME/cache目录 删除lockfile文件 重新创建或打开工程即可（其实已经创建成功但lockfile被占用了导致无法结束）  
+
+## 2. Could not determine the dependencies of task ':app:compileDebugJavaWithJavac'
 
 报错代码：
       
