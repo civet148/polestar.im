@@ -1,30 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="abd31891-99e4-4ab6-8e55-536da315cccf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/polestar_app/lib/page/login_page.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polestar_server/core/account/polestar_account.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polestar_server/core/bot/polestar_bot.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polestar_server/core/file/polestar_file.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polestar_server/core/message/polestar_message.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polestar_server/core/photo/polestar_photo.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polestar_server/core/push/polestar_push.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polestar_server/core/session/polestar_session.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polestar_server/core/sync/polestar_sync.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polestar_server/core/voip/polestar_voip.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polestar_server/dal/dao/polestar_dao.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polestar_server/dal/dataobject/dbgen.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polestar_server/polestar_server.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polestar_server/polestar_server.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polestar_server/proto/protogen.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polestar_server/utils/lock_utils/polestar_locker.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polestar_server/utils/polestar_utils.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polestar_server/utils/redis_utils/polestar_redis.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polestar_server/utils/webrtc_utils/polestar_webrtc.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polestar_server/wss/polestar_wss.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/polestar_app/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/polestar_app/lib/main.dart" afterDir="false" />
-    </list>
+    <list default="true" id="abd31891-99e4-4ab6-8e55-536da315cccf" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
