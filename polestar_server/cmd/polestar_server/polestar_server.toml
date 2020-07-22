@@ -1,0 +1,13 @@
+# pole star app server config file
+
+# 工作机器ID（用于雪花ID生成器）
+workId = 1
+# 业务ID号（用于雪花ID生成器）
+businessId =1
+# 日志配置
+[log]
+logPath = "/tmp/polestar_dbproxy.log"
+logLevel = "debug"
+
+[settings]
+addr = "wss://127.0.0.1:8080"
