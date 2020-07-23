@@ -6,7 +6,7 @@ workId = 1
 businessId =1
 # 日志配置
 [log]
-logPath = "/tmp/polestar_dbproxy.log"
+logPath = "/tmp/polestar_server.log"
 logLevel = "debug"
 
 [settings]
