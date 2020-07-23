@@ -43,7 +43,7 @@ password = ""
 # redis db index (0~15)
 index = 0
 # redis master host
-masterHost = "127.0.0.1"
+masterHost = "127.0.0.1:6379"
 # redis replicate hosts
 replicateHosts = []
 # default connect timeout (ms)
