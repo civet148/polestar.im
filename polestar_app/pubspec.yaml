@@ -24,7 +24,7 @@ dependencies:
   flutter:
     sdk: flutter
   # barcode_scan: ^3.0.1
-  flutter_screenutil: ^2.1.0
+  flutter_screenutil: 2.1.0
   font_awesome_flutter: ^8.8.1
 
 
