@@ -2,15 +2,22 @@
 
 # 工作机器ID（用于雪花ID生成器）
 workId = 1
-# 业务ID号（用于雪花ID生成器）
-businessId =1
+
 # 日志配置
 [log]
 logPath = "/tmp/polestar_server.log"
 logLevel = "debug"
 
 [settings]
-addr = "wss://127.0.0.1:8080"
+listeners = ["tcp://127.0.0.1:5555","wss://127.0.0.1:8888"]
+
+[broker]
+# 主题订阅模式
+mode = "topic"
+# 绑定KEY(生产/消费)
+bindingKey = "polestar.server.node1"
+# MQ连接URL
+url = "amqp://127.0.0.1:5672"
 
 [redis]
 # redis auth password

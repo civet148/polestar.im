@@ -1,0 +1,21 @@
+syntax = "proto3";
+package walletpb;
+
+import "github.com/gogo/protobuf/gogoproto/gogo.proto";
+
+option go_package = "github.com/civet148/polestar.im/polestar_server/proto";
+option (gogoproto.marshaler_all) = true;
+option (gogoproto.sizer_all) = true;
+option (gogoproto.unmarshaler_all) = true;
+// option (gogoproto.goproto_getters_all) = false;
+option (gogoproto.gostring_all) = true;
+
+enum RpcCode {
+    OK = 0;
+    AccessDenied = 1001; //无访问权限
+    NotFound = 1002; //没找到
+    NoEnoughMoney = 1003; //余额不足
+    InternalError = 1004; //内部服务器错误
+    WrongPassword = 1005; //密码错误
+    InvalidParam = 1006; //参数错误
+}
