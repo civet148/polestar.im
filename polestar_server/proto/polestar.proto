@@ -12,10 +12,12 @@ option (gogoproto.gostring_all) = true;
 
 enum RpcCode {
     OK = 0;
-    AccessDenied = 1001; //无访问权限
-    NotFound = 1002; //没找到
-    NoEnoughMoney = 1003; //余额不足
-    InternalError = 1004; //内部服务器错误
-    WrongPassword = 1005; //密码错误
-    InvalidParam = 1006; //参数错误
+    InternalError = 500; //内部服务器错误
+    AccessDenied = 501; //无访问权限
+    NotFound = 502; //没找到资源
+    NoEnoughMoney = 503; //余额不足
+    AuthError = 504; //用户名或密码错误
+    InvalidParam = 505; //参数错误
+    InvalidToken = 506; //TOKEN无效
+    InvalidUrl = 507; //URL无效
 }
