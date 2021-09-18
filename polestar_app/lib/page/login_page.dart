@@ -195,7 +195,7 @@ class _LoginPageState extends State<LoginPage> {
         color: Colors.blue[300],
         child: Text(
           "登录",
-          style: Theme.of(context).primaryTextTheme.headline,
+          style: Theme.of(context).primaryTextTheme.headline1,
         ),
         // 设置按钮圆角
         shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(10.0)),

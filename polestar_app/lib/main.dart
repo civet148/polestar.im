@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Pole start app',
+      title: 'pole star app',
       theme: ThemeData(
         // This is the theme of your application.
         //
